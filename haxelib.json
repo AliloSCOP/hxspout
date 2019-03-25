@@ -1,0 +1,11 @@
+{
+  "name": "hxSpout",
+  "url": "https://github.com/bablukid/hxspout",
+  "license": "GPL",
+  "classPath": "src",
+  "tags":["php"],
+  "description": "Haxe externs for Spout ( CSV/ODS/XLSX reader/writer PHP library)",
+  "version": "1.0.0",
+  "releasenote": "Initial release",
+  "contributors":["bablukid"]
+}
