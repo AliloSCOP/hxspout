@@ -1,5 +1,7 @@
 # hxspout
-Haxe externs for Spout
+
+Haxe externs for Spout.
+Spout is a PHP library to read and write spreadsheets in CSV,ODS or XLSX format.
 
 
 ## Usage
@@ -11,3 +13,6 @@ writer.addRow(php.Lib.toPhpArray(["Hello","world"]));
 writer.addRow(php.Lib.toPhpArray(["Haxe","rocks"]));
 writer.close();
 ```
+## Documentation
+
+Original documentation in PHP : http://opensource.box.com/spout/
